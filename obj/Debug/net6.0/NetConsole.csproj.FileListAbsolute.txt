@@ -1,0 +1,15 @@
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\NetConsole.exe
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\NetConsole.deps.json
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\NetConsole.runtimeconfig.json
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\NetConsole.dll
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\ref\NetConsole.dll
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\bin\Debug\net6.0\NetConsole.pdb
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.csproj.AssemblyReference.cache
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.AssemblyInfoInputs.cache
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.AssemblyInfo.cs
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.csproj.CoreCompileInputs.cache
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.dll
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\ref\NetConsole.dll
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.pdb
+C:\Users\cemal\Desktop\2022_DEVOPS\7-CI-CD\1-JENKINS\2-Maven_Local_Project\NetConsoleProject\NetConsole\obj\Debug\net6.0\NetConsole.genruntimeconfig.cache
